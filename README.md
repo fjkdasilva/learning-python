@@ -21,15 +21,16 @@ This may take a bit depending on your experience programming. learnpython.org lo
 
 - Open Git Bash
 
-- Use commands "cd" (change directory) and "ls" (list) to change to where you want to save your files. i.e. "cd Documents"
+- Use commands "cd" (change directory) and "ls" (list) to change to where you want to save your files. i.e. "cd Documents". 
+  "cd.." takes you up a directory.
 
 - Create a new folder for GitHub "mkdir GitHub" (make directory), and go into it "cd GitHub".
 
-- Now back to your browser and go to our github repository (https://github.com/tne-lab/learning-python). Click fork in the upper right corner. Then click on your account. This will make a private version for yourself.
+- Now back to your browser and go to our github repository (https://github.com/tne-lab/learning-python). Click fork in the upper right corner. Then click on your account in the resulting pop-up window. This will make a private version for yourself.
 
 - Now go to your private repo (https://github.com/CHANGETOYOURUSERNAME/learning-python) and copy the link from the green clone button.
 
-- Back to git bash and type "git clone https://github.com/CHANGETOYOURUSERNAME/learning-python". This creates a local copy for yourself.
+- Back to git bash and type "git clone https://github.com/CHANGETOYOURUSERNAME/learning-python". This creates a copy on your local hard-drive for yourself.
 
 ### Download data from google drive
 TNEL-UMN/Protocols and Tutorials/Python
