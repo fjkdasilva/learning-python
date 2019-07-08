@@ -30,7 +30,7 @@ This may take a bit depending on your experience programming. learnpython.org lo
 
 - Now go to your private repo (https://github.com/CHANGETOYOURUSERNAME/learning-python) and copy the link from the green clone button.
 
-- Back to git bash and type "git clone https://github.com/CHANGETOYOURUSERNAME/learning-python". This creates a copy on your local hard-drive for yourself.
+- Back to git bash and type "git clone https://github.com/CHANGETOYOURUSERNAME/learning-python". If you copied the link with the green clone button, simply type "git clone" the right-click with the mouse to paste the link.  This creates a copy on your local hard-drive for yourself.
 
 ### Download data from google drive
 TNEL-UMN/Protocols and Tutorials/Python
